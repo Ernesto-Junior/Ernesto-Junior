@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje estou a procura da minha primeira experiencia em um ambiente de trabalho
+- 🔭 Hoje estou a procura da minha primeira experiencia de trabalho
 - 🌱 Estou atualmente aprendendo C#, com foco atual em ASPNET
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Bem nerd kk
