@@ -7,9 +7,8 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Bem nerd kk
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernesto-Junior&show_icons=true&theme=synthwave)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernesto-Junior&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Ernesto-Junior&show_icons=true&theme=synthwave" />
+ <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernesto-Junior&show_icons=true&theme=synthwave" />
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,html,css" />
