@@ -10,4 +10,9 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernesto-Junior&show_icons=true&theme=synthwave)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernesto-Junior&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  [![My Skills](https://skillicons.dev/icons?i=cs,html,css)](https://skillicons.dev)
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=cs,html,css]" />
+  </a>
+</p>
 
