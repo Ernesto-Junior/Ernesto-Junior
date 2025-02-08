@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou a procura da minha primeira experiencia de trabalho
-- 🌱 Estou atualmente aprendendo C#, com foco atual em ASPNET
+- 🌱 Estou atualmente aprendendo C#, com foco atual em Blazor
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Bem nerd kk
 
